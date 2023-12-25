@@ -2,7 +2,7 @@
 
 ## Technologies 😎
 - C programming
-- c++ 
+- C++ 
 - HTML 
 - CSS
 - JavaScript
